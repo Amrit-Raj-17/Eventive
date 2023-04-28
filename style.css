@@ -37,16 +37,20 @@ body , html {
 header{
   width: 100vw;
   height: 100vh;
-  background-image: url("img15.jpg");
+  background-image: url("IMG-20230428-WA0011.jpg");
   background-size: cover;
   background-position: bottom;
   display: flex;
   align-items: flex-end;
   justify-content: center;
 }
+.name{
+  color: gold;
+  font-size: 100px;
+}
 .header-content{
-  margin-bottom: 150px;
-  color: whitesmoke;
+  margin-bottom: 120px;
+  color: gold;
   text-align: center;
 }
 .header-content h2{
