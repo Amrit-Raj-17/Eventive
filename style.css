@@ -74,6 +74,12 @@ header{
   border-radius: 30px;
   color: whitesmoke;
 }
+.contac{
+  color: whitesmoke;
+}
+.contac:hover{
+  color: #fc036b;
+}
 .menu-btn{
   position: absolute;
   top: 30px;
