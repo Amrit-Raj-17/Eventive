@@ -75,10 +75,15 @@ header{
   color: whitesmoke;
 }
 .contac{
+  padding: 8px 15px;
+  background: #fc036b;
+  border-radius: 30px;
   color: whitesmoke;
 }
 .contac:hover{
+  background: whitesmoke;
   color: #fc036b;
+  box-shadow: 2px 2px 5px #00000056;
 }
 .menu-btn{
   position: absolute;
